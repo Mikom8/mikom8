@@ -16,7 +16,7 @@ I am a passionate developer who loves building clean, scalable, and user-friendl
 
 ---
 
-### My Toolbox
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> My Toolbox
 <div align="center">
 
 | Category | Technologies |
