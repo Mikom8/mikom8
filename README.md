@@ -38,7 +38,7 @@ I am a passionate developer who loves building clean, scalable, and user-friendl
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
