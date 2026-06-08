@@ -1,7 +1,7 @@
 # Hi there, I'm Mikael Melese 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,10 +10,10 @@
 
 I am a passionate developer who loves building clean, scalable, and user-friendly applications. I thrive on solving complex problems and continuously learning new technologies.
 
-- 🔭 I’m currently working on **[Project Name/Type]**
+<!-- - 🔭 I’m currently working on **[Project Name/Type]**
 - 🌱 I’m currently learning **[A technology you're mastering]**
 - 💬 Ask me about **[Your areas of expertise]**
-- ⚡ Fun fact **[A quirky or fun personal fact]**
+- ⚡ Fun fact **[A quirky or fun personal fact]** -->
 
 ---
 
@@ -31,7 +31,7 @@ I am a passionate developer who loves building clean, scalable, and user-friendl
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Mikom8&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" width="48%" />
+<!--<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Mikom8&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikom8&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
@@ -39,19 +39,19 @@ I am a passionate developer who loves building clean, scalable, and user-friendl
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/mikom8" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/mikom_8" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://t.me/YOUR-TELEGRAM" target="_blank">
+  <a href="https://t.me/mikom8" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%2326A69A.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mikomiky2020@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
