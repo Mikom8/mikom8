@@ -1,4 +1,4 @@
-# Hi there, I'm Mikael Melese 👋 
+# Hi there, I'm Mikael Melese
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
@@ -17,7 +17,7 @@ I am a passionate developer who loves building clean, scalable, and user-friendl
 
 ---
 
-### 🛠️ My Toolbox
+### My Toolbox
 <div align="center">
 
 | Category | Technologies |
@@ -31,7 +31,7 @@ I am a passionate developer who loves building clean, scalable, and user-friendl
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
 <!--<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Mikom8&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" width="48%" /> -->
@@ -40,7 +40,7 @@ I am a passionate developer who loves building clean, scalable, and user-friendl
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/mikom8" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
