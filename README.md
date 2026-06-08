@@ -6,7 +6,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="35" vertical-align="middle"/> About Me
+### <img src="https://fluentdeck.vercel.app/emoji/svg/high_contrast/writing_hand_high_contrast_default.svg" width="35" vertical-align="middle"/> About Me
 I am a passionate developer who loves building clean, scalable, and user-friendly applications. I thrive on solving complex problems and continuously learning new technologies.
 
 <!-- - 🔭 I’m currently working on **[Project Name/Type]**
