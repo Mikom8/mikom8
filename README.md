@@ -38,13 +38,18 @@ I am a passionate developer who loves building clean, scalable, and user-friendl
 ---
 
 ### 🤝 Connect with Me
-
 <p align="left">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://t.me/YOUR-TELEGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%2326A69A.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
