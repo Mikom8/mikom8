@@ -17,9 +17,8 @@ I am a passionate developer who loves building clean, scalable, and user-friendl
 
 ---
 
-<div align="center">
-
 ### 🛠️ My Toolbox
+<div align="center">
 
 | Category | Technologies |
 | :---: | :---: |
