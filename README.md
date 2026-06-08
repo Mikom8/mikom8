@@ -30,7 +30,7 @@ I am a passionate developer who loves building clean, scalable, and user-friendl
 
 ---
 
-### <img src="https://unpkg.com/simple-icons@v14/icons/githubactions.svg" width="30" height="30" align="center" style="fill: #ffffff;"/> Github Stats
+### <img src="https://img.shields.io/badge/-?logo=githubactions&logoColor=white&color=00000000" height="30" align="center"/> Github Stats
 
 <p align="center">
 <!--<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Mikom8&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" width="48%" /> -->
