@@ -6,7 +6,9 @@
 
 ---
 
-### 🚀 About Me
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%E2%9C%A8+About+Me+%E2%9C%A8;%F0%9F%92%BB+My+Journey;%F0%9F%9A%80+What+I+Do" alt="About Me" />
+</p>
 
 I am a passionate developer who loves building clean, scalable, and user-friendly applications. I thrive on solving complex problems and continuously learning new technologies.
 
