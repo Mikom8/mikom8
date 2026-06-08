@@ -32,7 +32,7 @@ I am a passionate developer who loves building clean, scalable, and user-friendl
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mikom8&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikom8&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dfsg&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
