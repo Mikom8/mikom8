@@ -42,7 +42,7 @@ I am a passionate developer who loves building clean, scalable, and user-friendl
   <a href="https://linkedin.com/in/mikom8" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
   </a>
   <a href="https://instagram.com/mikom_8" target="_blank">
