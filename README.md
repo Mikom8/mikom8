@@ -39,7 +39,7 @@ I am a passionate developer who loves building clean, scalable, and user-friendl
 
 ---
 
-### Connect with Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="25" height="25" /> Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/mikom8" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
